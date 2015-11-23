@@ -13,6 +13,6 @@
     }
 
     angular
-        .module('assets')
+        .module('ngFullScreenLoad')
         .service('fullScreenLoadService', fullScreenLoadService);
-}());
+})();
