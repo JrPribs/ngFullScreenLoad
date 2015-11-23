@@ -1,7 +1,7 @@
 (() => {
     'use strict';
 
-    function pxFullScreenLoad() {
+    function fullScreenLoad() {
         return {
             templateUrl: 'asset/client/views/fullScreenLoad.client.view.html',
             restrict: 'AE',
@@ -27,6 +27,6 @@
     }
 
     angular
-        .module('assets')
-        .directive('pxFullScreenLoad', pxFullScreenLoad);
+        .module('ngFullScreenLoad')
+        .directive('fullScreenLoad', fullScreenLoad);
 })();
