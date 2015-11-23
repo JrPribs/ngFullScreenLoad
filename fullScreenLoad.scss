@@ -1,0 +1,18 @@
+.fsl-overlay {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(255,255,255,.75);
+    z-index: 9999;
+}
+
+.fsl-alert {
+    position: fixed;
+    top: 50%;
+    transform: translate(0, -50%);
+    padding: 15px;
+}
+
+.fsl-status {
+    line-height: 1.5;
+}

@@ -1,0 +1,34 @@
+{
+  "name": "ngFullScreenLoad",
+  "authors": [
+    "Jon Pribesh <jpribes@wgu.edu>"
+  ],
+  "description": "Full screen loading directive with optional status alert",
+  "main": "fullScreenLoad.client.directive.js",
+  "moduleType": [],
+  "keywords": [
+    "full",
+    "screen",
+    "loading",
+    "loading",
+    "bar",
+    "content",
+    "veil",
+    "loading",
+    "status",
+    "load",
+    "icon",
+    "angular",
+    "loading",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/JrPribs/ngFullScreenLoad",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
